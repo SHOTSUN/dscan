@@ -1,0 +1,13 @@
+name = jQuery-viewport-checker
+description = jQuery-viewport-checker is a Drupal 7 integration of jQuery-viewport-checker library.
+core = 7.x
+dependencies[] = libraries (>=7.x-2.0)
+configure = admin/config/media/viewportchecker
+
+
+; Information added by Drupal.org packaging script on 2017-10-18
+version = "7.x-1.0"
+core = "7.x"
+project = "viewportchecker"
+datestamp = "1508325547"
+

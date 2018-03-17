@@ -74,11 +74,11 @@
  * @ingroup templates
  */
 ?>
-<header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
+<header id="navbar" role="banner" class="navbar container-fluid navbar-default navbar-fixed-top">
   <div class="<?php print $container_class; ?>">
     <div class="navbar-header ">
       <?php if ($logo): ?>
-        <a class="logo navbar-btn pull-left " href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
+        <a class="logo navbar-btn pull-left animated rotateIn" href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>">
           <img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" />
         </a>
       <?php endif; ?>

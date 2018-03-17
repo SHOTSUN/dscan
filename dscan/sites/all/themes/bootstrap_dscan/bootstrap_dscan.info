@@ -26,3 +26,9 @@ regions[banner]    		= 'Banner'
 ;;;;;;;;;;;;;;;;;;;;;
 
 stylesheets[all][] = css/style.css
+stylesheets[all][] = css/animate.css
+
+
+scripts[] = js/script.js
+scripts[] = js/jquery.viewportchecker.js
+
