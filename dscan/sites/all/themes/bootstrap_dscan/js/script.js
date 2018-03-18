@@ -8,6 +8,6 @@ jQuery(document).ready(function() {
 jQuery(document).ready(function() {
   jQuery('.from_right').addClass("hhh").viewportChecker({
     classToAdd: 'vvv animated fadeInRight',
-    offset: 140
+    offset: 100
   });
 });
