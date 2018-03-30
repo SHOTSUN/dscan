@@ -177,9 +177,7 @@ html {
   }
 }
 
-.img-responsive{
-  padding-top: 45px;
-}
+
 
 .banner-social-buttons {
   margin-top: 0;
@@ -256,6 +254,11 @@ html {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
   background-color: #333333;
+}
+
+
+body.navbar-is-fixed-top {
+  padding-top: 46px;
 }
 
 
