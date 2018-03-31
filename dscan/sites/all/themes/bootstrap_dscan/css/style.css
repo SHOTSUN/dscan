@@ -265,3 +265,18 @@ body.navbar-is-fixed-top {
 body.admin-menu.navbar-is-fixed-top {
   padding-top: 0px;
 }
+
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:26.25%;
+  position:relative;
+  height:0;
+}
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height: 300px;
+  width:100%;
+  position:absolute;
+}
