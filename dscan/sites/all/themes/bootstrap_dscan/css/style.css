@@ -280,3 +280,11 @@ body.admin-menu.navbar-is-fixed-top {
   width:100%;
   position:absolute;
 }
+
+.col-lg-offset-2 {
+  text-align: left;
+}
+
+.col-md-6{
+  padding-left: 0px;
+}
