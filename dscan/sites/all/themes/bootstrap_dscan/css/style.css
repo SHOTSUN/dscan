@@ -79,7 +79,7 @@ p {
   font-size: 1.25rem;
   font-weight: 300;
   line-height: 1.5;
-  /*text-align: justify;*/
+  text-align: justify;
 }
 
 .col-md-7 {
@@ -286,8 +286,9 @@ body.admin-menu.navbar-is-fixed-top {
 }
 
 .col-md-6{
-  padding-left: 0px;
+  /*padding-left: 4em;*/
 }
+
 
 .col-md-7 {
   -webkit-box-flex: 0;
@@ -302,3 +303,4 @@ body.admin-menu.navbar-is-fixed-top {
   padding-bottom: 20px;
   padding-top: 20px;
 }
+

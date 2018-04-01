@@ -35,5 +35,3 @@ jQuery(document).ready(function() {
     offset: 30
   });
 });
-
-src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;language=ru&amp;key=AIzaSyA6Fu8sTVkNINyaaHijG8EkbIdkDGEJMsc"  type="text/javascript">
