@@ -276,7 +276,7 @@ body.admin-menu.navbar-is-fixed-top {
 .map-responsive iframe{
   left:0;
   top:0;
-  height: 300px;
+  height: 100%;
   width:100%;
   position:absolute;
 }
@@ -287,4 +287,18 @@ body.admin-menu.navbar-is-fixed-top {
 
 .col-md-6{
   padding-left: 0px;
+}
+
+.col-md-7 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 58.333333%;
+  flex: 0 0 58.333333%;
+  max-width: 100%;
+}
+
+.col-lg-offset-2 {
+  /* margin-left: 16.66666667%; */
+  text-align: left;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
